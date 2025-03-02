@@ -34,17 +34,17 @@ header h2 {
 nav a {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   text-decoration: none;
-  color: rgb(0, 0, 0);
-  background-color: rgb(255, 0, 0);
+  color: rgb(247, 0, 0);
   font-size: medium;
   font-weight: bold;
+  padding-right: 12px;
  
   transition-duration: 2s;
 }
 a:hover{
     background-color: black;
     color: red;
-    text-transform: uppercase;
+   
    text-decoration: underline;
    font-style: italic;
 }

@@ -23,20 +23,20 @@ header h2 {
 nav a {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     text-decoration: none;
-    color: rgb(0, 0, 0);
-    background-color: rgb(255, 0, 0);
+    color: rgb(247, 0, 0);
     font-size: medium;
     font-weight: bold;
+    padding-right: 12px;
+   
     transition-duration: 2s;
   }
-
   a:hover{
-    background-color: black;
-    color: red;
-    text-transform: uppercase;
-   text-decoration: underline;
-   font-style: italic;
-}
+      background-color: black;
+      color: red;
+     
+     text-decoration: underline;
+     font-style: italic;
+    }
 img{
     
    width: 30%;
@@ -47,7 +47,7 @@ img{
 }
 body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: rgba(165, 42, 42, 0.418);
+    background-color: rgba(161, 143, 143, 0.418);
    
 }
 p{
